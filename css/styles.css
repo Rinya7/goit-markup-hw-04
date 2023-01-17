@@ -294,6 +294,7 @@ img {
 
 .features-list .title {
   margin: 0;
+  margin-top: 8px;
   margin-bottom: 8px;
 
   color: var(--navy-blue);
