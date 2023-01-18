@@ -148,7 +148,9 @@ img {
 
 /* ========================ICONS HEADER===================== */
 
-.header-contacts .mail::before {
+/* СДЕЛАЛ ЧЕРЕЗ ФОН, НО ТАК НЕ РАБОТАЕТ ХОВЕР */
+
+/*.header-contacts .mail::before {
   content: "";
   width: 16px;
   height: 16px;
@@ -170,7 +172,7 @@ img {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-}
+}*/
 
 /* ===============ICONS HEADER ==END============ */
 
